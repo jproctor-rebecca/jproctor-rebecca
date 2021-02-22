@@ -3,7 +3,7 @@
 <!--
 **jproctor-rebecca/jproctor-rebecca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm Jeannine. I enjoy applying data science techniques to learn about the world in which we live. particularlly as it applies to the educational field.
+I'm Jeannine. I enjoy applying data science techniques to learn about the world in which we live, particularlly as applied to the educational field.
 
 Check out some humble analyses on my portfolio page [Jeannine Proctor](jproctor-rebecca.github.io):
 
