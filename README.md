@@ -5,7 +5,7 @@
 
 I'm Jeannine. I enjoy applying data science techniques to learn about the world in which we live, particularlly as applied to the educational field.
 
-Check out some humble analyses on my portfolio page [Jeannine Proctor](jproctor-rebecca.github.io):
+Check out some humble analyses on my portfolio page [Jeannine Proctor](https://jproctor-rebecca.github.io):
 
 
 - 📫 How to reach me: ... 
