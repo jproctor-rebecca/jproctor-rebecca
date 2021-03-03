@@ -10,9 +10,9 @@ Check out some humble analyses on my portfolio page [Jeannine Proctor](jproctor-
 
 - 📫 How to reach me: ... 
 
- [LinkedIn](www.linkedin.com/in/jeannine-proctor)
+ [LinkedIn](https://www.linkedin.com/in/jeannine-proctor)
  
- [Email](jproctor.m.ed.tn@gmail.com)
+ <a href="mailto:jproctor.m.ed.tn@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 - 😄 Pronouns: ... She/Her
 
